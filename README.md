@@ -1,7 +1,14 @@
 # Women Made It
 Awesome tools, books, podcasts, and blogs made by women. Let's support great makers in the design &amp; development community!
 
-Table of Content
+<p align="center">
+    <a href="https://flawlessapp.io/womenmadeit?github">
+        <img src="https://github.com/LisaDziuba/Women-Made-It/blob/master/GitHub.png" alt="Women-Made-It"/>
+    </a>
+</p>
+
+
+## Table of Content
 * Design
 * iOS Development
 
