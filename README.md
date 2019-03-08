@@ -19,6 +19,7 @@ Awesome tools, books, podcasts, and blogs made by women. Let's support great mak
 * [Flawless Feedback](https://flawlessapp.io/feedback) - tool to leave feedback on iOS apps. Review and annotate the live app. Share your feedback with developers directly to Jira or Trello. Made by [Lisa Dziuba](https://twitter.com/LisaDziuba).
 * [Readymag](https://readymag.com/) - with Readymag you can create any kind of web publications using only one tool: website, portfolio, presentation, magazines. Made by [Diana Novichikhina](https://twitter.com/DianaNovich).
 * [Nucleo](https://nucleoapp.com/) - a beautiful library of 26831 icons, and a powerful application to collect, customize and export all your icons. Made by [Claudia Romano](https://twitter.com/romano_cla).
+* [Absurd.Design](https://absurd.design/) - free surrealist illustrations for landing pages, apps, and presentations. Updated and completely free. Made by [Diana Valeanu](https://twitter.com/diana_valeanu).
 
 ### Books
 
