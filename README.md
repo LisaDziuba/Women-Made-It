@@ -50,5 +50,10 @@ Made by Michelle Kondrich.
 ## iOS Development
 Coming soon...
 
+## Web Development
+
+### Chrome Extensions
+* [JapaneseTab](https://www.producthunt.com/posts/japanesetab) - a Chrome extension that helps you learn Japanese in every new tab. Learn over 1800 words along with their kanji, hiragana, katakana and romaji translations. Made by [Anupya](https://www.github.com/Anupya).
+ 
 
 This repo was created by @LisaDziuba and @Valianka. Website was designed and developed by @berezovskycom.
