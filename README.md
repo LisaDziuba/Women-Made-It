@@ -50,4 +50,4 @@ Made by Michelle Kondrich.
 Coming soon...
 
 
-This repo was created by @LisaDziuba and @Valianka. Website was designer and developed by @berezovskycom.
+This repo was created by @LisaDziuba and @Valianka. Website was designed and developed by @berezovskycom.
