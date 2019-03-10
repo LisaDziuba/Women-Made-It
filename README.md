@@ -15,11 +15,11 @@ Awesome tools, books, podcasts, and blogs made by women. Let's support great mak
 ## Design
 
 ### Tools
-* [unDraw](https://undraw.co/) - open-source svg illustrations for every project you can imagine and create. Constantly updated and completely free. Made by [Katerina Limpitsouni](https://twitter.com/ninalimpi).
-* [Flawless Feedback](https://flawlessapp.io/feedback) - tool to leave feedback on iOS apps. Review and annotate the live app. Share your feedback with developers directly to Jira or Trello. Made by [Lisa Dziuba](https://twitter.com/LisaDziuba).
-* [Readymag](https://readymag.com/) - with Readymag you can create any kind of web publications using only one tool: website, portfolio, presentation, magazines. Made by [Diana Novichikhina](https://twitter.com/DianaNovich).
-* [Nucleo](https://nucleoapp.com/) - a beautiful library of 26831 icons, and a powerful application to collect, customize and export all your icons. Made by [Claudia Romano](https://twitter.com/romano_cla).
-* [Absurd.Design](https://absurd.design/) - free surrealist illustrations for landing pages, apps, and presentations. Updated and completely free. Made by [Diana Valeanu](https://twitter.com/diana_valeanu).
+* [unDraw](https://undraw.co/) — open-source svg illustrations for every project you can imagine and create. Constantly updated and completely free. Made by [Katerina Limpitsouni](https://twitter.com/ninalimpi).
+* [Flawless Feedback](https://flawlessapp.io/feedback) — tool to leave feedback on iOS apps. Review and annotate the live app. Share your feedback with developers directly to Jira or Trello. Made by [Lisa Dziuba](https://twitter.com/LisaDziuba).
+* [Readymag](https://readymag.com/) — with Readymag you can create any kind of web publications using only one tool: website, portfolio, presentation, magazines. Made by [Diana Novichikhina](https://twitter.com/DianaNovich).
+* [Nucleo](https://nucleoapp.com/) — a beautiful library of 26831 icons, and a powerful application to collect, customize and export all your icons. Made by [Claudia Romano](https://twitter.com/romano_cla).
+* [Absurd.Design](https://absurd.design/) — free surrealist illustrations for landing pages, apps, and presentations. Updated and completely free. Made by [Diana Valeanu](https://twitter.com/diana_valeanu).
 
 ### Books
 
@@ -39,13 +39,13 @@ Made by Michelle Kondrich.
 
 
 ### Blogs 
-* [Flawless App Stories](https://medium.com/flawless-app-stories) - community around mobile design, iOS development and mobile marketing. Run by [Valia Havruliyk](https://twitter.com/ValiaHavryliuk).
-* [Design + Sketch](https://medium.com/sketch-app-sources) - great collection of stories & tutorials on designing and prototyping with Sketch and beyond. Run by [Galya Ilieva](https://www.facebook.com/galyailiev).
-* [The Year of the Looking Glass](https://medium.com/the-year-of-the-looking-glass) - a collection of essays by Julie Zhuo on design, building products, and observing life. [Julie](https://twitter.com/joulee ) is Facebook Product design VP.
-* [Joanna Ngai Medium](https://medium.com/@ngai.yt) - Joanna is UX Designer at Microsoft, sharing learnings around UX & UI design, public speaking, design process and diversity. 
+* [Flawless App Stories](https://medium.com/flawless-app-stories) — community around mobile design, iOS development and mobile marketing. Run by [Valia Havruliyk](https://twitter.com/ValiaHavryliuk).
+* [Design + Sketch](https://medium.com/sketch-app-sources) — great collection of stories & tutorials on designing and prototyping with Sketch and beyond. Run by [Galya Ilieva](https://www.facebook.com/galyailiev).
+* [The Year of the Looking Glass](https://medium.com/the-year-of-the-looking-glass) — a collection of essays by Julie Zhuo on design, building products, and observing life. [Julie](https://twitter.com/joulee ) is Facebook Product design VP.
+* [Joanna Ngai Medium](https://medium.com/@ngai.yt) — Joanna is UX Designer at Microsoft, sharing learnings around UX & UI design, public speaking, design process and diversity. 
 
 ### Communities
-* [Women Who Design](https://womenwho.design/) - a Twitter directory of accomplished women in the design industry. It aims to help people find notable and relevant voices to follow on Twitter by parsing Twitter bios for popular keywords.
+* [Women Who Design](https://womenwho.design/) — a Twitter directory of accomplished women in the design industry. It aims to help people find notable and relevant voices to follow on Twitter by parsing Twitter bios for popular keywords.
 
 ## iOS Development
 Coming soon...
