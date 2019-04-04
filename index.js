@@ -41,7 +41,7 @@ const writeHtml = (html, isProduction = process.env.PRODUCTION) => {
 			return html;
 		}
 	}
-	fs.writeFile(index, html, function(err, data) {
+	fs.writeFile(index, minified, function(err, data) {
 	  if (err) console.log(err);
 	  console.log(`transpiled md to html`);
 	});

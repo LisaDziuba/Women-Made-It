@@ -12,20 +12,20 @@ const editHead = ({ document }, isProduction) => {
     } = HtmlParts;
 
     // if (isProduction) {
-    //     head.innerHTML = `
-    //         ${title}
-    //         ${meta}
-    //         ${icons}
-    //         ${styleInner}
-    //         ${analytics}
-    //     `;
-    // } else {
         head.innerHTML = `
             ${title}
             ${meta}
             ${icons}
-            ${styleExternal}
+            ${styleInner}
+            ${analytics}
         `;
+    // } else {
+    //     head.innerHTML = `
+    //         ${title}
+    //         ${meta}
+    //         ${icons}
+    //         ${styleExternal}
+    //     `;
     // }
 }
 
