@@ -22,7 +22,6 @@ Awesome tools, books, podcasts, and blogs made by women. Let's support great mak
 ## Table of Content
 * [Design](https://github.com/LisaDziuba/Women-Made-It#design)
 * [iOS Development](https://github.com/LisaDziuba/Women-Made-It#ios-development)
-* [iOS Development](https://github.com/LisaDziuba/Women-Made-It#ios-development)
 
 </nav>
 
