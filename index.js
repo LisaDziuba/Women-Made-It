@@ -5,23 +5,16 @@ const { JSDOM } = jsdom;
 const minify = require('html-minifier').minify;
 
 const editHead = require('./docs/modules/editHead');
-const createPromoBanner = require('./docs/modules/createPromoBanner');
 const addIDsForHeadings = require('./docs/modules/addIDsForHeadings');
 const addLinksToNavigationElements = require('./docs/modules/addLinksToNavigationElements');
 const tweakDescriptionOfArticleTopic = require('./docs/modules/tweakDescriptionOfArticleTopic');
 const tweakToolContainer = require('./docs/modules/tweakToolContainer');
 const addHamburgerMenu = require('./docs/modules/addHamburgerMenu');
-const addWelcomeArticle = require('./docs/modules/addWelcomeArticle');
 const addScripts = require('./docs/modules/addScripts');
 const deleteAllIconsInDescription = require('./docs/modules/deleteAllIconsInDescription');
 const addBackgroundColorToLogo = require('./docs/modules/addBackgroundColorToLogo');
 const removeAllImages = require('./docs/modules/removeAllImages');
-const addContributeButtonForAddendum = require('./docs/modules/addContributeButtonForAddendum');
-const removeListInAddendum = require('./docs/modules/removeListInAddendum');
 const addFooter = require('./docs/modules/addFooter');
-const Palette = require('./docs/modules/new/splitHyphens');
-
-console.log('something');
 
 const config = {
 	markdownFile: `./README.md`,
