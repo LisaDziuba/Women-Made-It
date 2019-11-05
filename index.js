@@ -21,6 +21,8 @@ const removeListInAddendum = require('./docs/modules/removeListInAddendum');
 const addFooter = require('./docs/modules/addFooter');
 const Palette = require('./docs/modules/new/splitHyphens');
 
+console.log('something');
+
 const config = {
 	markdownFile: `./README.md`,
 	index: `./docs/index.html`,
